@@ -2,11 +2,14 @@
 // @name          Shutterstock Keywords
 // @author        skillup (skillup.lj.ru)
 // @source        http://skillup.lj.ru
-// @version       1.3
+// @version       1.3.1
 // @description   Easy to copy image keywords.
-// @include       https://www.shutterstock.com/image-photo/*
-// @include       https://www.shutterstock.com/image-vector/*
-// @include       https://www.shutterstock.com/image-illustration/*
+// @include       http*://www.shutterstock.com/image-photo/*
+// @include       http*://www.shutterstock.com/image-vector/*
+// @include       http*://www.shutterstock.com/image-illustration/*
+// @include       http*://www.shutterstock.com/*/image-photo/*
+// @include       http*://www.shutterstock.com/*/image-vector/*
+// @include       http*://www.shutterstock.com/*/image-illustration/*
 // ==/UserScript==
 
 (() => {
